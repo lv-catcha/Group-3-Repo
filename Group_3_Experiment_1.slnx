@@ -1,4 +1,3 @@
 <Solution>
   <Project Path="Group_3_Experiment_1/Group_3_Experiment_1.csproj" />
-  Console.WriteLine("Hello World!");
 </Solution>
