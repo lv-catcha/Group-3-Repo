@@ -8,6 +8,9 @@
             Console.WriteLine("Hello from Pasiol!");x
             Console.WriteLine("Hello from Pasiol!");x
             Console.WriteLine("Hello from Pasiol!");x
+            Console.WriteLine("Hello from Pasiol!");x
+            Console.WriteLine("Hello from Pasiol!");x
+            Console.WriteLine("Hello from Pasiol!");x
         }
     }
 }
