@@ -4,22 +4,22 @@
     {
         static void Main(string[] args)
         {
-          if (score >= 90)
-{
-    Console.WriteLine("Excellent!");
-}
-else if (score >= 75)
-{
-    Console.WriteLine("Good job!");
-}
-else if (score >= 60)
-{
-    Console.WriteLine("Passed.");
-}
-else
-{
-    Console.WriteLine("Failed.");
-}
+        if (score >= 90)
+            {
+                Console.WriteLine("Wow pasar");
+            }
+        else if (score >= 75)
+            {
+                Console.WriteLine("ok lng");
+            }
+        else if (score >= 60)
+            {
+                Console.WriteLine("Ih bagsak");
+            }
+        else
+            {
+                Console.WriteLine("Ih bagsak");
+            }
         }
     }
 }
